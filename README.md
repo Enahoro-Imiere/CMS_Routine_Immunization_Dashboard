@@ -1,4 +1,3 @@
-Overview
 The dashboard shows strong data on coverage and incentives, but when analyzed in context, several implementation gaps emerge that affect the effectiveness, timeliness, and equity of the program.
 Key Project Gaps & Root Causes
 1.	Low or Uneven Immunization Coverage
